@@ -43,7 +43,7 @@ header .logo{
 
 header ul{
   position: relative;
-  display: flex;
+  display: none;
 }
 
 header ul li{
@@ -161,6 +161,7 @@ header ul li a{
     background-position: center;
     background-repeat: no-repeat;
     filter: invert(1);
+    display: none;
   }
   
   .toggle.active{
