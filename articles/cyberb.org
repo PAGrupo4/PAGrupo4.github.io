@@ -1,0 +1,33 @@
+#+TITLE: Cyberbullying
+#+AUTHOR: Grupo 4
+#+OPTIONS: toc:nil num:nil author:nil timestamp:nil html-postamble:nil title:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="artigoHTML.css"/>
+
+* Cyberbullying
+O Cyberbullying descreve o bullying usando telefones celulares e a Internet. A
+maioria dos estudos anteriores enfocou a prevalência de mensagens de texto e e-mail
+bullying.
+
+Primeiramente, para se discutir sobre o cyberbullying é preciso ter conhecimento sobre si
+próprio e reconhecer o que lhe incomoda e saber seu limite, resumidamente, este
+problema está em várias situações, sendo elas piadas autodepreciativos até ameaças de
+nível mais prejudicial, podendo se tornar uma prática criminosa. Cyber: cibernético, que é
+relacionado às redes sociais e tudo que envolve Internet, já o bullying pode ser praticado
+de algumas formas, como agressão física, e psicológica.
+
+Todos estamos sujeitos a esse tipo de situação, literalmente todos, como crianças, idosos, novos usuários ou até pessoas que tem um certo conhecimento mas também não conseguem escapar desse tipo de ação autodepreciativa. Contrariamente, nós que temos conhecimento mais amplo,podemos ajudar a identificar e ajudar a evitar esse tipo de agressão.
+
+- Crianças: o uso sempre com consentimento de um adulto e sempre sendo monitorado.
+- Adolescentes: os pais devem ajudar a contornar esse tipo de ação, os ensinando a bloquear a pessoa, e como já citado antes, ter autoconhecimento sobre o que lhe incomoda.
+- Adultos: a partir de uma prosa e lhe mostrando espúrias nas entrelinhas em sites, e mais uma vez o ajudando a identificar fake news.
+- Com idosos: o ensinar a não compartilhar artigos de má índole em um grupo, e tomar cuidado quando clicar em um site que lhe solicita dados pessoais.
+* Cyberbulling sua natureza e seu impacto em alunos do ensino médio
+Duas pesquisas com alunos de 11-16 anos: 92 alunos de 14 escolas, complementados por grupos de foco; 533 alunos de 5 escolas, para avaliar a generalização dos resultados do primeiro estudo e investigar as relações do cyberbullying com o uso geral da Internet. Ambos os estudos diferenciaram o cyberbullying dentro e fora da escola em 7 meios de cyberbullying.
+
+Ambos os estudos descobriram que o bullying virtual é menos frequente do que o bullying tradicional, mas é apreciável, e relatou mais casos fora da escola do que dentro. Bullying por telefone e mensagem de texto foram mais prevalentes, com bullying por mensagem instantânea no segundo estudo; seu impacto foi percebido como comparável ao bullying tradicional. O bullying no celular / videoclipe, embora mais raro, foi percebido como tendo um impacto mais negativo. As diferenças de idade e gênero variaram entre os dois estudos. O Estudo 1 descobriu que a maior parte do cyberbullying era praticada por um ou alguns alunos, geralmente do mesmo ano. Muitas vezes, durava apenas cerca de uma semana, mas às vezes muito mais. O segundo estudo descobriu que ser uma vítima cibernética, mas não um ciberbully, está correlacionado com o uso da Internet; muitas vítimas cibernéticas eram as tradicionais /'vítimas de intimidação'/. Os alunos recomendaram bloquear / evitar mensagens e dizer a alguém, como as melhores estratégias de enfrentamento; mas muitas vítimas cibernéticas
+não contaram a ninguém sobre isso.
+
+* Quais conclusões podemos ter
+O cyberbullying é um novo tipo importante de bullying, com algumas características diferentes do bullying tradicional. Muita coisa acontece fora da escola.
+** O que fazer caso esteja sofrendo com essa situação
+Mesmo com todos os passos que citamos antes, se acontecer, fique calmo, tire prints (capturas de imagens da tela de seu aparelho) de todos os ataques, não revide, e bloqueie o indivíduo, se isso acontecer de novo, procure alguém que possa te ajudar com a situação, mostre os prints tirados antes como provas, e talvez seja necessário um boletim de ocorrência.

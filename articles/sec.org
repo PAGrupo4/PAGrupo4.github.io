@@ -1,0 +1,24 @@
+#+TITLE: Cyberbullying
+#+AUTHOR: Grupo 4
+#+OPTIONS: toc:nil num:nil author:nil timestamp:nil html-postamble:nil title:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="artigoHTML.css"/>
+* Proteção Virtual
+  Se você busca se proteger virtualmente, seria bom dar uma olhada nesses tópicos que iremos abordar.
+  1) Senha forte
+  2) Fontes seguras
+  3) Não salvar dados nos sites
+  4) Procura alternativas de código aberto
+  5) Prestar atenção nos formatos de arquivos que você baixa
+** Senha forte
+   Hoje em dia criar uma senha minimamente forte está ficando difícil, porém em uma entrevista Edward Snowden disse como podemos dificultar o acesso de invasores, o mesmo deu dicas de como criar uma senha forte.
+
+   Snowden diz que podemos usar frases divertidas e longas como:
+   "*margarettatcheris110%SEXY"*
+
+   Essa senha além ser longa, possui números, letras maiúsculas e minúsculas, nomes famosos, adjetivos e carectéres especiais
+** Links
+   Se você procurar por algo simples como "Skype download", verá que uma grande quantia de resultados será mostrada para você. A maioria desses links raramente terá o que você precisa, exceto o link que oficial. Portanto sempre prefira utilizar o site autêntico da empresa e evite baixar arquivos/programas de qualquer link.
+** Salvar dados em sites
+   Muitas vezes nós acabamos salvando informações nos sites para agilizar o processo em um futuro retorno, mas pensando no outro lado, caso uma pessoa consiga acesso ao seu perfil, poderá utilizar dados como os do seu cartão de crédito para fazer tudo o que bem deseja.
+** Programas alternativos de código aberto
+   Os programas de código aberto além de serem em sua maioria gratuitos, possuem seu código revisado por diversas pessoas. Portanto a chance de um programa desse estilo conter algo de ruim é praticamente nula. 
