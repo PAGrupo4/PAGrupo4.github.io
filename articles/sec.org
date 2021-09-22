@@ -22,3 +22,5 @@
    Muitas vezes nós acabamos salvando informações nos sites para agilizar o processo em um futuro retorno, mas pensando no outro lado, caso uma pessoa consiga acesso ao seu perfil, poderá utilizar dados como os do seu cartão de crédito para fazer tudo o que bem deseja.
 ** Programas alternativos de código aberto
    Os programas de código aberto além de serem em sua maioria gratuitos, possuem seu código revisado por diversas pessoas. Portanto a chance de um programa desse estilo conter algo de ruim é praticamente nula. 
+** Formato dos arquivos
+   Se você baixa/baixava músicas na internet sabe que na maioria a extensão delas será .mp3, .wav, .ogg e etc. Portanto sempre fique atento no formato do arquivo que você esta baixando. Uma imagem não terá uma extensão .bat e não será executável.
