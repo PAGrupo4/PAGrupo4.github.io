@@ -1,0 +1,18 @@
+#+TITLE: Golpe do Whatsapp
+#+AUTHOR: Grupo 4
+#+OPTIONS: toc:nil num:nil author:nil timestamp:nil html-postamble:nil title:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="artigoHTML.css"/>
+* Golpe do Whatsapp
+Se você acompanha os noticiários e jornais, deve ter visto que um golpe de clonagem de Whatsapp estava sendo aplicado para o furto de dinheiro.
+
+* Como funciona?
+	O criminoso utiliza dois celulares, um deles é utilizado para conversar com a vítima e o outro celular é utilizado para "clonar" o número do alvo.
+
+	Então uma mensagem como *"Você acaba de ganhar 10 mil reais, envie o código que foi enviado via SMS para confirmar sua identidade."* é enviada para o alvo. Porém não existe nenhum dinheiro, é apenas um código de autenticação que o apicativo de mensagens gera para confirmar sua identidade, tanto é que se você prestar atenção ao conteúdo da mensagem verá que é uma mensagem do Whatsapp. Portanto quando a vítima passa o código o criminoso utiliza o segundo celular, para entrar na conta do alvo. E assim ele possui acesso total a todos seus contatos e pode fazer o que quiser no seu Whatsapp.
+
+* Como se previnir?
+	Caso você receba uma mensagem desse tipo, preste atenção no SMS e *NÃO* passe o código para ninguém, apenas bloqueie o número e continue seguindo sua vida.
+
+** Mais informações
+	 Caso queira entender de uma forma visual use o vídeo abaixo.
+	 
