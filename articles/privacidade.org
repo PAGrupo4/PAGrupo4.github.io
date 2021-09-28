@@ -1,0 +1,15 @@
+#+TITLE: Privacidade na internet
+#+AUTHOR: Grupo 4
+#+OPTIONS: toc:nil num:nil author:nil timestamp:nil html-postamble:nil title:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="artigoHTML.css"/>
+* Privacidade na internet
+	Hoje em dia, temos contas em vários sites e aplicativos, mas você já pensou no que acontece com seus dados?
+** Venda de dados
+	 Caso você tenha lido algum termo de privacidade de algum app como o TikTok /(provavelmente não)/, verá que se necessário eles podem usar suas informações para fins comercias.
+
+	 Mas não é apenas o TikTok que faz essas coisas, empresas como Microsoft, Apple, Google e etc também realizam uma grande coleta de dados, não é atoa que existem fundações como a Free Software, que busca fazer softwares livres que respeitem a nossa privacidade.
+* Software livre
+	Softwares livres, são pogramas que podem ser copiados, modificados e redistribuídos sem nenhuma autorização do proprietário.
+
+* Mais informações
+	Caso queira ver mais sobre o assunto assista o vídeo abaixo.
